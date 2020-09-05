@@ -21,11 +21,14 @@ Conclusion and recommendation
 
 ## INSTALLATION REQUIREMENTS
 RStudio
+Github
+R programming basics
 
-clone the repo by running;
-git clone https://github.com/jane95924.github
-navigate to the directory;
+## TECHNOLOGIES USED
 
-cd R_BASICS
+R programming
 
-open atom;
+## CONTACT
+
+For questions,ideas and clarification
+contact @ 'jepkemboijane95@gmail.com'
