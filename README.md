@@ -20,8 +20,11 @@ Conclusion and recommendation
 
 
 ## INSTALLATION REQUIREMENTS
+
 RStudio
+
 Github
+
 R programming basics
 
 ## TECHNOLOGIES USED
