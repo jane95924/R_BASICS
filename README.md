@@ -26,6 +26,6 @@ clone the repo by running;
 git clone https://github.com/jane95924.github
 navigate to the directory;
 
-cd R_BaSICS
+cd R_BASICS
 
 open atom;
